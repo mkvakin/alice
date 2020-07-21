@@ -44,6 +44,7 @@
   <ItemGroup>
     <Content Include=".gitignore" />
     <Content Include="f1.txt" />
+    <Content Include="f2.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".git\config" />
